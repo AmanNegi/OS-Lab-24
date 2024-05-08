@@ -14,7 +14,7 @@
 ### Directories --- (openddir, readdir, mkdir)
 ```c
 #include <dirent.h>
-#include <stat/types.h>
+#include <sys/stat.h>
 ```
 
 ### Threading ---
